@@ -1,0 +1,167 @@
+SplineFontDB: 3.2
+FontName: Unrandomised
+FullName: Unrandomised
+FamilyName: Unrandomised
+Weight: Regular
+Copyright: CC0, Tazshelby2016
+UComments: "2020-3-16: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -15
+UnderlineWidth: 7.5
+Ascent: 120
+Descent: 30
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 33 2053473518 26046]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1584384070
+ModificationTime: 1584389818
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 14
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 14
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 12
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 4
+
+StartChar: A
+Encoding: 65 65 0
+Width: 100
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 0 m 1
+ 15 100 l 1
+ 25 120 l 1
+ 75 120 l 1
+ 85 100 l 1
+ 85 0 l 1
+ 65 0 l 1
+ 65 40 l 1
+ 35 40 l 1
+ 35 0 l 1
+ 15 0 l 1
+35 60 m 1
+ 65 60 l 1
+ 65 90 l 1
+ 55 100 l 1
+ 45 100 l 1
+ 35 90 l 1
+ 35 60 l 1
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 1
+Width: 140
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 0 m 1
+ 35 20 l 1
+ 35 100 l 1
+ 15 120 l 1
+ 85 120 l 1
+ 115 90 l 1
+ 115 60 l 1
+ 90 35 l 1
+ 125 0 l 1
+ 105 0 l 1
+ 75 30 l 1
+ 75 40 l 1
+ 55 40 l 1
+ 55 0 l 1
+ 15 0 l 1
+55 100 m 1
+ 55 60 l 1
+ 95 60 l 1
+ 95 90 l 1
+ 85 100 l 1
+ 55 100 l 1
+EndSplineSet
+EndChar
+
+StartChar: I
+Encoding: 73 73 2
+Width: 90
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 0 m 1
+ 15 10 l 1
+ 35 10 l 1
+ 35 110 l 1
+ 15 110 l 1
+ 15 120 l 1
+ 75 120 l 1
+ 75 110 l 1
+ 55 110 l 1
+ 55 10 l 1
+ 75 10 l 1
+ 75 0 l 1
+ 15 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: M
+Encoding: 77 77 3
+Width: 180
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 14.1171875 m 1
+ 23.8232421875 22.94140625 l 1
+ 23.8232421875 111.176757812 l 1
+ 15 120 l 1
+ 41.470703125 120 l 1
+ 57.6474609375 103.823242188 73.8232421875 87.6474609375 90 71.470703125 c 1
+ 100.293945312 81.7646484375 110.587890625 92.0595703125 120.8828125 102.352539062 c 0
+ 126.764648438 108.235351562 132.646484375 114.118164062 138.529296875 120 c 1
+ 165 120 l 1
+ 156.176757812 111.176757812 l 1
+ 156.176757812 22.94140625 l 1
+ 165 14.1171875 l 1
+ 138.529296875 14.1171875 l 1
+ 138.529296875 102.352539062 l 1
+ 122.352539062 86.17578125 106.176757812 70 90 53.8232421875 c 1
+ 73.8232421875 70 57.6474609375 86.17578125 41.470703125 102.352539062 c 1
+ 41.470703125 14.1171875 l 1
+ 15 14.1171875 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

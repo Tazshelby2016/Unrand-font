@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<path id="Shape 4" class="shp0" d="" />
+	<path id="Shape 5" class="shp0" d="M0 120L0 0L20 0L30 10L40 20L50 30L60 40L70 50L80 60L90 70L100 80L100 20L80 0L120 0L120 120L100 120L20 40L20 100L40 120" />
+</svg>

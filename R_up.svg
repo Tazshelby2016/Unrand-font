@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<path id="Shape 4" class="shp0" d="" />
+	<path id="Shape 5" class="shp0" d="" />
+	<path id="Shape 6" class="shp0" d="M0 120L20 100L20 20L0 0L20 0L40 0L70 0L100 30L100 60L90 70L80 80L75 85L80 90L90 100L110 120L90 120L60 90L60 80L40 80L40 120L0 120Z" />
+	<path id="Shape 7" class="shp0" d="M40 20L70 20L80 30L80 60L40 60L40 20Z" />
+</svg>
