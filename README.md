@@ -1,3 +1,3 @@
-# Unrand_font
- Repository for the CC0 Unrandomised Font Family.
+# Unrandomised font
+ Repository for the 🄍 Unrandomised Font Family.
 
