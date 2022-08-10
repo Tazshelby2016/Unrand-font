@@ -1,4 +1,4 @@
-CC0, Contributions welcome.
+🅭🄍, Contributions welcome.
 # Applying changes to the repository
  * Create a Pull Request
 # How to contribute to the Unrandomised Pixel font family:
