@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
-	<style>
-		tspan { white-space:pre }
-		.shp0 { fill: #000000 } 
-	</style>
-	<path id="Layer 1" class="shp0" d="M-144 352" />
-	<path id="Layer 3" class="shp0" d="M0 400L200 400L150 450L150 600L250 700L300 700L400 600L400 450L350 400L550 400L500 450L500 600L300 800L250 800L50 600L50 450" />
-</svg>
