@@ -1,12 +1,3 @@
-🅭🄍, Contributions welcome.
-Need help:
-  * Adding glyphs
-  * Confirming/fixing glyphs
-  * Do kerning
-Aim to:
-  * Include every block in Unicode
-    * Each script fully functioning 
-  * Various styles, including non-pixel varients
 # Applying changes to the repository
   * Create a Pull Request
 # How to contribute to the Unrandomised Pixel font family:
